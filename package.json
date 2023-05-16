@@ -1,0 +1,20 @@
+{
+  "name": "eleventy-markdown-it-plugins-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eleventy": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "markdown-it-emoji": "^2.0.2",
+    "markdown-it-obsidian-images": "^1.0.1",
+    "markdown-it-wikilinks": "^1.2.0"
+  }
+}
